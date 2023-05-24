@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lindzey"
+  given-names: "Laura"
+  orcid: "https://orcid.org/0000-0003-3475-0996"
+title: "ZenodoTest"
+version: 0.1.0
+doi: 10.5281/zenodo.7967071
+date-released: 2023-05-24
+url: "https://github.com/qgreenland-workshop-2023-researcher/lauralindzey-zenodo-test"
